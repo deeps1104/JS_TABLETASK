@@ -1,0 +1,79 @@
+
+button.btn1 {
+  font-weight: 600;
+  background-color: #4681f4;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 30px;
+  margin: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  /* width: 15%; */
+  letter-spacing: 1px;
+}
+
+.btn1:focus {
+  color: #06270e;
+
+}
+
+.modal-footer .close-btn {
+  margin-right: 22px;
+  font-size: 16px;
+  width: 25%;
+  /* background-color: #4681f4; */
+
+}
+
+.modal-footer .submit-btn {
+  width: 25%;
+  font-size: 16px;
+  margin-right: 22px;
+
+}
+
+.form-group label {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.modal-header {
+  flex-direction: column;
+  justify-content: center;
+  background-color: #598bed;
+}
+
+h1.fs-5 {
+  font-size: 2rem !important;
+  color: #fff;
+}
+
+textarea.form-control {
+  margin-top: 10px;
+}
+
+.form-group input {
+  margin-top: 10px;
+}
+
+.edit {
+  cursor: pointer;
+}
+
+.dlt {
+  cursor: pointer;
+
+}
+
+.removebtn {
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.ghost {
+  color: #fff;
+  background-color:#4f6f9d;
+  /* background-color: #b3b3b3; */
+}
